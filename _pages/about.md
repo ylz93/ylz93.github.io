@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Yilang Zhao, Ph. D. I am an educational researcher passionate about transdisciplinary STEM education. My current research interests are data science education, mathematics education, constructionism, embodied cognition, and game-based learning. My core ideology is to infuse STEM education in various learning settings and leverage students' interests, previous experiences, and prior knowledge to provide them meaningful STEM learning experiences.
+I am Yilang Zhao, Ph. D. I am passionate about transdisciplinary STEM education. My current research interests are data science education, mathematics education, constructionism, embodied cognition, and game-based learning. My core ideology is to infuse STEM education in various learning settings and leverage students' interests, previous experiences, and prior knowledge to provide them meaningful STEM learning experiences.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
