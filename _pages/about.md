@@ -6,18 +6,18 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>111</p>
-    <p>111</p>
-    <p>333</p>
+    <p>429 Claxton Education Building</p>
+    <p>1122 Volunteer Blvd.</p>
+    <p>Knoxville, TN 37996</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Yilang Zhao, Ph. D. I am an educational researcher passionate about transdisciplinary STEM education. My current research interests are data science education,
+I am Yilang Zhao, Ph. D. I am an educational researcher passionate about transdisciplinary STEM education. My current research interests are data science education, mathematics education, constructionism, embodied cognition, and game-based learning. My core ideology is to infuse STEM education in various learning settings and leverage students' interests, previous experiences, and prior knowledge to provide them meaningful STEM learning experiences.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
