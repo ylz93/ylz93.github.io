@@ -2,9 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Postdoctoral Research Associate</strong>
-Center for Enhancing Education in Mathematics and Sciences
-University of Tennessee, Knoxville 
+subtitle: >
+  <p><strong>Postdoctoral Research Associate</strong> </p>
+<p>Center for Enhancing Education in Mathematics and Sciences</p>
+<p>University of Tennessee, Knoxville </p>
 
 profile:
   align: right
