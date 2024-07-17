@@ -10,11 +10,11 @@ nav_order: 6
 University of Tennessee, Knoxville
 
 STEM 685 Foundations of Educational Data Science II\
-Terms: Fall2024\
-Format: Online\
-Level: Graduate\
-Class size: 10\
-Description: This course focuses on utilizing data science methods, supported by Generative AI, to explore new technology-based learning environments, including online courses, educational technology platforms, and social media. It introduces advanced data science techniques, such as machine learning and natural language processing, enabling students to apply these techniques in educational settings. By the end of the course, students will produce a conference paper suitable for learning analytics or educational data mining conferences.
+<strong>Terms</strong>: Fall2024\
+<strong>Format</strong>: Online\
+<strong>Level</strong>: Graduate\
+<strong>Class Size</strong>: 10\
+<strong>Description</strong>: This course focuses on utilizing data science methods, supported by Generative AI, to explore new technology-based learning environments, including online courses, educational technology platforms, and social media. It introduces advanced data science techniques, such as machine learning and natural language processing, enabling students to apply these techniques in educational settings. By the end of the course, students will produce a conference paper suitable for learning analytics or educational data mining conferences.
 
 
 
