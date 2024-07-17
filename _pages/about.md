@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Center for Enhancing Education in Mathematics and Sciences</a> <strong>Postdoctoral Research Associate</strong>
 
 profile:
   align: right
