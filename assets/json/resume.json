@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Yilang Zhao",
-    "label": "Postdoctoral Research Associate",
-    "image": "",
+    "title": "Postdoctoral Research Associate",
+    "department":"Center for Enhancing Education in Mathematics and Sciences",
     "email": "yzhao97@utk.edu",
-    "url": "yilangzhao.com",
     "summary": "a transdisciplinary STEM education researcher",
     "location": {
       "address": "1122 Volunteer Blvd",
@@ -15,22 +14,28 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Yilang Zhao",
+        "url": "https://scholar.google.com/citations?user=-zHUNOsAAAAJ&hl=en&oi=ao"
+      },
+      {
+        "network": "X",
+        "username": "Yilang Zhao",
+        "url": "https://x.com/ZYilang"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "institution": "University of Tennessee, Knoxville",
+      "department": "Center for Enhancing Education in Mathematics and Sciences",
+      "position": "Postdoctoral Research Associate",
+      "startDate": "2023-08-01",
+      "endDate": "2025-07-31",
+      "summary": "Leading data collection, data processing, and research of a data science education and arts education integrated NSF-funded project; participating in the curriculum design for middle and high schoolers"
+    },
+
+
   ],
   "volunteer": [
     {
