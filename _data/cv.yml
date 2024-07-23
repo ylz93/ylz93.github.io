@@ -13,27 +13,21 @@
       institution: University of Wisconsin–Madison
       year: 2023
       description:
-        - Track: Design, Informal, and Creative Education (DICE)
-        - Minor: Educational Psychology – Learning Sciences
-        - Advisors: Dr. Matthew Berland & Dr. Mitchell Nathan
-        - Dissertation title: Tiles, Game, and Coordinate Plane: Exploring Learning Vector Addition Through Concreteness Fading
+        - track: Design, Informal, and Creative Education (DICE)
+        - minor: Educational Psychology – Learning Sciences
+        - advisors: Dr. Matthew Berland & Dr. Mitchell Nathan
+        - dissertation title: Tiles, Game, and Coordinate Plane: Exploring Learning Vector Addition Through Concreteness Fading
     - title: M. A. in Media and Information
       institution: Michigan State University
       year: 2017
       description:
-        - Track: Human-computer Interaction
+        - track: Human-computer Interaction
     - title: Graduate Certificate in Serious Game Design and Research
       institution: Michigan State University
       year: 2017
     - title: B. E. in the Internet of Things
       institution: University of Wisconsin–Madison
       year: 2023
-      description:
-        - Track: Design, Informal, and Creative Education (DICE)
-        - Minor: Educational Psychology – Learning Sciences
-        - Advisors: Dr. Matthew Berland & Dr. Mitchell Nathan
-        - Dissertation title: Tiles, Game, and Coordinate Plane: Exploring Learning Vector Addition Through Concreteness Fading
-
 
 - title: Experiences
   type: time_table
