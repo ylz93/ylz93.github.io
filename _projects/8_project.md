@@ -2,7 +2,7 @@
 layout: page
 title: Predoctoral projects
 description: Serious games designed and developed at MSU
-img: assets/img/project/predoc.jpg
+img: assets/img/project/predoc_cover.jpg
 importance: 2
 category: work
 giscus_comments: true
