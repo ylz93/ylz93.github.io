@@ -2,7 +2,7 @@
 layout: page
 title: Hiking!
 description: my hiking journal!
-img: assets/img/1.jpg
+img: assets/img/project/hiking_cover.jpg
 importance: 3
 category: fun
 ---

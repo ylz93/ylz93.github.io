@@ -1,8 +1,8 @@
 ---
 layout: page
 title: VACF
-description: Dissertation project
-img: assets/img/4.jpg
+description: My dissertation project at UW–Madison
+img: assets/img/project/vacf_cover.jpg
 importance: 1
 category: work
 related_publications: true

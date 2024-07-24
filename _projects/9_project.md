@@ -2,7 +2,7 @@
 layout: page
 title: Fishing!
 description: my fishing journey!
-img: assets/img/6.jpg
+img: assets/img/project/fishing_cover.jpg
 importance: 4
 category: fun
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Self-reflection in Games
-description: Pre-dissertation project at UW–Madison
-img: assets/img/3.jpg
+description: My pre-dissertation project at UW–Madison
+img: assets/img/project/sr_cover.png
 importance: 2
 category: work
 giscus_comments: true
