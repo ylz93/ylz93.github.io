@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MVP (mathematizing, visualizing, and power)
+title: MVP
 description: Postdoc project at UTK
 img: assets/img/project/mvp_cover.jpg
 importance: 1
