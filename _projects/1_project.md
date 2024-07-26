@@ -14,7 +14,7 @@ The MVP project had four cycles from Spring 2023 to Summer 2024. I joined this p
 
 Below are the pictures from the MVP program.
 
-div class="row">
+<div class="row">
     <div class="col-sm mt-5 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project/MVP/MVP_LS.jpg" title="MVP_LS" class="img-fluid rounded z-depth-1" %}
     </div>
