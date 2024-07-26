@@ -5,7 +5,7 @@ description: My pre-dissertation project at UW–Madison
 img: assets/img/project/sr_cover.png
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
