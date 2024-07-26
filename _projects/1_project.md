@@ -27,7 +27,7 @@ Below are the pictures from the MVP program.
     Right: a Community Learning Event at a local community college art center
 </div>
 
-Below are some fabulous work our students created in the MVP program.
+Below are some fabulous data-artwork our students created in the MVP program.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
