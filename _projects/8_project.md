@@ -5,21 +5,28 @@ description: Serious games designed and developed at MSU
 img: assets/img/project/predoc_cover.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Before going to UW–Madison for my doctorate, I earned my master's degree in Media and Information at Michigan State and was interested in serious game design and development. In my culture, games are often regarded as something addictive and harmful to children. Nonetheless, I believe game's potential of attracting kids and maintaining their attention can be leveraged to create great learning experiences. Here are two example serious games I have worked on.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Tech Trek is a 4-player card game designed to make available to middle school students information about technology related careers. This game is suitable for classrooms, is easy to put together and to play, and is a free engaging activity designed specifically for learning. The goal of this game is to excite middle school students (especially girls) about pursuing technology related careers, so that they carry this excitement throughout their education and hopefully pursue STEM careers in the future. I participated in the design and crafting of this game and a field test at a local middle school.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+More information can be found at https://playtechtrek.wordpress.com
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project/predoc/tech trek.png" title="Tech Trek" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Tech Trek's gameplay
+</div>
+
+
+Picky Birds
+
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,14 +42,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
