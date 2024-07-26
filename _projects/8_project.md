@@ -11,7 +11,7 @@ Before going to UW–Madison for my doctorate, I earned my master's degree in Me
 
 Tech Trek is a 4-player card game designed to make available to middle school students information about technology related careers. This game is suitable for classrooms, is easy to put together and to play, and is a free engaging activity designed specifically for learning. The goal of this game is to excite middle school students (especially girls) about pursuing technology related careers, so that they carry this excitement throughout their education and hopefully pursue STEM careers in the future. I participated in the design and crafting of this game and a field test at a local middle school.
 
-More information can be found at https://playtechtrek.wordpress.com
+More information can be found at <https://playtechtrek.wordpress.com>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
