@@ -27,7 +27,7 @@ Below are the pictures from the MVP program.
     Right: a Community Learning Event at a local community college art center
 </div>
 
-Below are some fabulous work our students did in the MVP program.
+Below are some fabulous work our students created in the MVP program.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,6 +42,8 @@ Below are some fabulous work our students did in the MVP program.
 </div>
 <div class="caption">
     Left: Consumerism
+
     Middle: Urban heat
+
     Right: Youth voice
 </div>
