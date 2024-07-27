@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VACF
-description: My dissertation project at UW–Madison
+description: Learning Vector Addition through Concreteness Fading, my dissertation project at UW–Madison
 img: assets/img/project/vacf_cover.png
 importance: 1
 category: work
