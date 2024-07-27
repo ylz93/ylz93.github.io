@@ -32,8 +32,8 @@ I completed my dissertation project at a charter school with over 20 students in
     </div>
 </div>
 <div class="caption">
-    Left: Constructionist math story making craft
-    Right: Participants and me
+    <strong>Left</strong>: Constructionist math story making craft
+    <strong>Right</strong>: Participants and me
 </div>
 
 The research findings from this project have been published/accepted to be published on several journals {% cite zhao2024tiles %}{% cite Zhao2024-sj %}. I have also presented my preliminary findings from this project at AERA 2023 {% cite Zhao2023-ht %} and ISLS 2023 {% cite zhao2023vector %}{% cite zhao2023probing %}.

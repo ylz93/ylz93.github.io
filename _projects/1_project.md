@@ -23,8 +23,8 @@ Below are the pictures from the MVP program.
     </div>
 </div>
 <div class="caption">
-    Left: a Learning Session at a rural Tennessee high school
-    Right: a Community Learning Event at a local community college art center
+    <strong>Left</strong>: a Learning Session at a rural Tennessee high school
+    <strong>Right</strong>: a Community Learning Event at a local community college art center
 </div>
 
 Below are some fabulous data-artwork our students created in the MVP program.
@@ -41,9 +41,9 @@ Below are some fabulous data-artwork our students created in the MVP program.
     </div>
 </div>
 <div class="caption">
-    Left: Consumerism
+    <strong>Left</strong>: Consumerism
 
-    Middle: Urban heat
+    <strong>Middle</strong>: Urban heat
 
-    Right: Youth voice
+    <strong>Right</strong>: Youth voice
 </div>
