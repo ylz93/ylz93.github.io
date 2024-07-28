@@ -17,7 +17,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Yilang Zhao, Ph. D. I am passionate about transdisciplinary STEM education. My current research interests are data science education, mathematics education, constructionism, embodied cognition, and game-based learning. My core ideology is to infuse STEM education in various learning settings and leverage students' interests, previous experiences, and prior knowledge to provide them meaningful STEM learning experiences.
+I am Yilang Zhao, Ph. D. I am passionate about transdisciplinary STEM education. My current research interests are data science education, mathematics education, constructionism, embodied cognition, and game-based learning. My core ideology is to infuse STEM education in various learning settings and leverage students' interests, previous experiences, and prior knowledge to provide them with meaningful STEM learning experiences.
 
 My works have been published/accepted in several high IF journals, such as Journal of Science Education and Technology, Instructional Science, and Education Science. I have also presented my works in various national and international conferences, such as AERA (American Education Research Association) Annual Meetings and ICLS (International Conference of Learning Sciences).
 
