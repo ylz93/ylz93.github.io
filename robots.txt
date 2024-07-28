@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yilangzhao.com/sitemap.xml
+Sitemap: https://www.yilangzhao.com/sitemap.xml
