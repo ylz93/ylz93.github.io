@@ -19,7 +19,7 @@ Below are the pictures from the MVP program.
         {% include figure.liquid loading="eager" path="assets/img/project/MVP/MVP_LS.jpg" title="MVP_LS" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-5 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/MVP/MVP_CLE.jpg" title="MVP_CLE" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/MVP/MVP_CLE.jpeg" title="MVP_CLE" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
