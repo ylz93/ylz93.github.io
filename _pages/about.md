@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <p><strong>Postdoctoral Research Associate</strong> </p> <p>Center for Enhancing Education in Mathematics and Sciences</p> <p>University of Tennessee, Knoxville </p>
+subtitle:  <p><strong>Assistant Professor of Educational Data Science</strong> </p> <p>Department of Counseling, School, and Educational Psychology</p> <p>University at Buffalo</p>
 
 profile:
   align: right
@@ -17,7 +17,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Yilang Zhao, Ph. D., Assistant Professor of Educational Data Science at the Department of Counseling, School, and Educational Psychology at University at Buffalo. My research interests include computational mixed methods, educational data science, data science education, mathematics education, constructionism, embodied cognition, and so on. My core ideology is to infuse STEM education in various learning settings and leverage students' interests, previous experiences, and prior knowledge to provide them with meaningful STEM learning experiences.
+I am Yilang Zhao, Ph. D. My research interests include computational mixed methods, educational data science, data science education, mathematics education, constructionism, embodied cognition, and so on. My core ideology is to infuse STEM education in various learning settings and leverage students' interests, previous experiences, and prior knowledge to provide them with meaningful STEM learning experiences.
 
 My works have been published in several high IF journals, such as Journal of Science Education and Technology, Mind, Culture, and Activity, and Education Science. I have also presented my works in various national and international conferences, such as AERA (American Education Research Association) Annual Meetings and ICLS (International Conference of Learning Sciences).
 
