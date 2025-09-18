@@ -7,10 +7,39 @@ nav: true
 nav_order: 6
 ---
 
+<strong>University at Buffalo</strong>
+
+<strong>CEP 508 Foundations of Educational Data Science and Analytics</strong>\
+<strong>Terms</strong>: Fall 2025\
+<strong>Format</strong>: Hybrid\
+<strong>Level</strong>: Graduate\
+<strong>Class Size</strong>: 20\
+<strong>Description</strong>: This course introduces Python libraries pandas and matplotlib for research data processing and visualization.
+
+
+<strong>University at Buffalo</strong>
+
+<strong>CEP 522 Stat Meth Ed Inference 1</strong>\
+<strong>Terms</strong>: Fall 2025\
+<strong>Format</strong>: Online\
+<strong>Level</strong>: Graduate\
+<strong>Class Size</strong>: 25\
+<strong>Description</strong>: This applied statistics course is for graduate students who need to use statistical methods in their own research. 
+
+
+<strong>University of Tennessee, Knoxville</strong>
+
+<strong>STEM 695 Capstone in Educational Data Science II</strong>\
+<strong>Terms</strong>: Spring 2025\
+<strong>Format</strong>: Online\
+<strong>Level</strong>: Graduate\
+<strong>Class Size</strong>: 10\
+<strong>Description</strong>: This course is a project-based course to allow educational data science students to apply their skills on their own research projects.
+
 <strong>University of Tennessee, Knoxville</strong>
 
 <strong>STEM 685 Foundations of Educational Data Science II</strong>\
-<strong>Terms</strong>: Fall2024\
+<strong>Terms</strong>: Fall2024, Spring 2025\
 <strong>Format</strong>: Online\
 <strong>Level</strong>: Graduate\
 <strong>Class Size</strong>: 10\
